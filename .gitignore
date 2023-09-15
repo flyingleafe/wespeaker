@@ -39,3 +39,4 @@ tensorboard
 **/*build*
 
 *.onnx
+*.egg-info
